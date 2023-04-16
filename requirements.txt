@@ -1,5 +1,5 @@
 streamlit
-from streamlit_webrtc
+streamlit_webrtc
 webrtc_streamer
 av
 cv2
