@@ -1,4 +1,4 @@
-streamlit as st
+streamlit
 from streamlit_webrtc
 webrtc_streamer
 av
